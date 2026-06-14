@@ -1,0 +1,7 @@
+names:
+- Weapon
+nc: 1
+path: E:\FYP\MODEL_WORK\Weapons 2\dataset_merged
+test: /kaggle/input/datasets/alinoorqureshi/weapon-detection-yolo-optimized/dataset_merged/test/images
+train: /kaggle/input/datasets/alinoorqureshi/weapon-detection-yolo-optimized/dataset_merged/train/images
+val: /kaggle/input/datasets/alinoorqureshi/weapon-detection-yolo-optimized/dataset_merged/val/images
